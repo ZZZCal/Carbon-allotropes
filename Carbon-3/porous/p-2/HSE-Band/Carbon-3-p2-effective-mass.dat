@@ -1,0 +1,28 @@
+Direct band gap: 0.122 eV
+  k-point: [0.00, 0.00, 0.00]
+  k-point indices: 0
+  Band indices: 135, 136
+
+Valence band maximum:
+  Energy: -1.630 eV
+  k-point: [0.00, 0.00, 0.00]
+  k-point location: between None-None
+  k-point indices: 0
+  Band indices: 134, 135
+
+Conduction band minimum:
+  Energy: -1.508 eV
+  k-point: [0.00, 0.00, 0.00]
+  k-point location: between None-None
+  k-point indices: 0
+  Band indices: 136, 137
+
+Using parabolic fitting of the band edges
+
+Hole effective masses:
+  m_h: -0.290 | band 134 | [0.00, 0.00, 0.00] -> [0.00, 0.00, 0.00]
+  m_h: -0.518 | band 135 | [0.00, 0.00, 0.00] -> [0.00, 0.00, 0.00]
+
+Electron effective masses:
+  m_e: 0.449 | band 136 | [0.00, 0.00, 0.00] -> [0.00, 0.00, 0.00]
+  m_e: 0.428 | band 137 | [0.00, 0.00, 0.00] -> [0.00, 0.00, 0.00]
